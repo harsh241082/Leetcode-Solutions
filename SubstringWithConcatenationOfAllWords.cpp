@@ -1,5 +1,4 @@
-//Q30
-//Problem: Substring with Concatenation of All Words
+//leetcode 30 Substring with Concatenation of All Words
 #include <bits/stdc++.h>
 using namespace std;
 class Solution
